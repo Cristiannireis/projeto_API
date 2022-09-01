@@ -1,2 +1,2 @@
-# projeto_react 
-# em desenvolvimento 
+# projeto_API 
+# site em django ligando a uma API 
